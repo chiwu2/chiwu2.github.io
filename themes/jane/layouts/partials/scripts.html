@@ -12,8 +12,11 @@
 
 <!-- Jane theme main js -->
 {{ $jsMain := resources.Get "js/main.js" | js.Build }}
+{{ $secureJS := $jsMain | resources.ExecuteAsTemplate "js/main.js" . }}
+<script type="text/javascript" src="{{ $secureJS.RelPermalink }}" crossorigin="anonymous"></script>
+{{/*  {{ $jsMain := resources.Get "js/main.js" | js.Build }}
 {{ $secureJS := $jsMain | resources.ExecuteAsTemplate "js/main.js" . | fingerprint }}
-<script type="text/javascript" src="{{ $secureJS.RelPermalink }}" integrity="{{ $secureJS.Data.Integrity }}" crossorigin="anonymous"></script>
+<script type="text/javascript" src="{{ $secureJS.RelPermalink }}" integrity="{{ $secureJS.Data.Integrity }}" crossorigin="anonymous"></script>  */}}
 <!-- End -->
 
 <!-- Mathjax -->
