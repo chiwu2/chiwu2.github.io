@@ -68,7 +68,7 @@ params:
     BY-NC-ND 4.0</a>
   customCSS: []
   customJS: []
-  social: # 把这几个改成您自己社交账号的网址，不想显示的话删掉也可以
+  social:
     a-email: mailto:your@email.com
     q-bilibili: https://bilibili.com
     h-weibo: https://weibo.com
