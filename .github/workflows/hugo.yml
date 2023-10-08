@@ -19,7 +19,7 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          deploy_key: ${{ secrets.GITHUB_TOKEN }}
+          deploy_key: ${{ secrets.PERSONAL_TOKEN }}
           external_repository: chiwu2/chiwu2.github.io
           publish_branch: master
           publish_dir: ./docs
