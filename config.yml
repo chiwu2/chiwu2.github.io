@@ -1,4 +1,4 @@
-baseURL: https://chiwu2.gitee.io/
+baseURL: https://chiwu2.github.io/
 title: chiwu的博客
 theme: jane
 
@@ -10,6 +10,7 @@ rssLimit: 20
 disqusShortname: ""
 googleAnalytics: ""
 copyright: "chiwu"
+publishDir: docs
 
 defaultContentLanguage: "zh-cn"
 languages:
