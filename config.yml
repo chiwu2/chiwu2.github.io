@@ -1,0 +1,91 @@
+baseURL: https://chiwu2.gitee.io/
+title: chiwu的博客
+theme: jane
+
+enableRobotsTXT: true
+enableEmoji: true
+hasCJKLanguage: true
+paginate: 5
+rssLimit: 20
+disqusShortname: ""
+googleAnalytics: ""
+copyright: "chiwu"
+
+defaultContentLanguage: "zh-cn"
+languages:
+  zh-cn:
+    languageCode: zh-cn
+  en:
+    languageCode: en
+
+author:
+  name: chiwu
+  url: /about
+
+sitemap:
+  changefreq: weekly
+  priority: 0.5
+  filename: sitemap.xml
+
+menu:
+  main:
+    - name: 首页
+      weight: 10
+      identifier: home
+      pageref: /
+    - name: 时间线
+      weight: 20
+      identifier: archives
+      pageref: /post/
+    - name: 标签
+      weight: 30
+      identifier: tags
+      pageref: /tags/
+    - name: 分类
+      weight: 40
+      identifier: categories
+      pageref: /categories/
+    # - name: 外部链接
+    #   weight: 50
+    #   pageref: https://gohugo.io
+
+params:
+  since: "2023"
+  homeFullContent: false
+  rssFullContent: true
+  logoTitle: Chiwu
+  keywords:
+    - Hugo
+    - theme
+    - jane
+  description: Chiwu的个人博客
+  dateFormatToUse: 2006-01-02
+  toc: true
+  photoswipe: true
+  contentCopyright: <a rel="license noopener"
+    href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC
+    BY-NC-ND 4.0</a>
+  customCSS: []
+  customJS: []
+  social: # 把这几个改成您自己社交账号的网址，不想显示的话删掉也可以
+    a-email: mailto:your@email.com
+    q-bilibili: https://bilibili.com
+    h-weibo: https://weibo.com
+    i-zhihu: https://zhihu.com
+    j-douban: https://douban.com
+    # b-stack-overflow: http://localhost:1313
+    # c-twitter: http://localhost:1313
+    # d-facebook: http://localhost:1313
+    # e-linkedin: http://localhost:1313
+    # f-google: http://localhost:1313
+    # g-github: http://localhost:1313
+    # k-pocket: http://localhost:1313
+    # l-tumblr: http://localhost:1313
+    # m-instagram: http://localhost:1313
+    # n-gitlab: http://localhost:1313
+    # o-goodreads: http://localhost:1313
+    # p-coding: http://localhost:1313
+    # r-codeforces: http://localhost:1313
+    # s-mastodon: http://localhost:1313
+    # t-youtube: http://localhost:1313
+    # u-twitch: http://localhost:1313
