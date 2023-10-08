@@ -1,15 +1,15 @@
 baseURL: https://chiwu2.github.io/
-title: chiwu的博客
+title: chiwu的博客 # 显示在标题栏，网页主题
 theme: jane
 
 enableRobotsTXT: true
 enableEmoji: true
 hasCJKLanguage: true
-paginate: 5
+paginate: 5 # 每页显示5篇博客，可以自己调整
 rssLimit: 20
 disqusShortname: ""
 googleAnalytics: ""
-copyright: "chiwu"
+copyright: "chiwu" # 显示在页面底部，一般写自己在博客中使用的名字，不一定是真名
 publishDir: docs
 
 defaultContentLanguage: "zh-cn"
@@ -54,21 +54,21 @@ params:
   since: "2023"
   homeFullContent: false
   rssFullContent: true
-  logoTitle: Chiwu
+  logoTitle: Chiwu # 显示在首页顶部的标题，可以自己调整
   keywords:
     - Hugo
     - theme
     - jane
-  description: Chiwu的个人博客
+  description: Chiwu的个人博客 # 显示在html的meta标签中，一般人看不到，可以不管
   dateFormatToUse: 2006-01-02
-  toc: true
+  toc: true # 文章是否显示目录
   photoswipe: true
   contentCopyright: <a rel="license noopener"
     href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC
     BY-NC-ND 4.0</a>
   customCSS: []
   customJS: []
-  social:
+  social: # 页面底部社交账号的链接，可以换成自己的，不想要也可以删掉
     a-email: mailto:your@email.com
     q-bilibili: https://bilibili.com
     h-weibo: https://weibo.com
