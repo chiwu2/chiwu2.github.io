@@ -142,7 +142,7 @@
   </url>
   
   <url>
-    <loc>https://chiwu2.github.io/tags/toc/</loc>
+    <loc>https://chiwu2.github.io/tags/%E6%97%A5%E6%9C%AC%E6%88%98%E5%9B%BD/</loc>
     <lastmod>2022-02-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -150,6 +150,13 @@
   
   <url>
     <loc>https://chiwu2.github.io/post/other/test-toc/global-toc-except-this/</loc>
+    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://chiwu2.github.io/tags/toc/</loc>
     <lastmod>2022-02-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
