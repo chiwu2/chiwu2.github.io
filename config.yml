@@ -1,6 +1,8 @@
 baseURL: https://chiwu2.github.io/
-title: chiwu的博客 # 显示在标题栏，网页主题
-theme: jane
+title: chiwu的博客 # 显示在标题栏，网页主题，可以改
+theme: jane # 不能改
+
+# 后面没有注释的尽量不要改
 
 enableRobotsTXT: true
 enableEmoji: true
@@ -30,25 +32,22 @@ sitemap:
 
 menu:
   main:
-    - name: 首页
+    - name: 首页 # 显示在菜单栏
       weight: 10
       identifier: home
       pageref: /
-    - name: 时间线
-      weight: 20
+    - name: 时间线 # 只能改name，不能改别的
+      weight: 20 # 数字控制排列顺序
       identifier: archives
       pageref: /post/
     - name: 标签
-      weight: 30
+      weight: 30 # 数字越小位置越靠前
       identifier: tags
       pageref: /tags/
     - name: 分类
       weight: 40
       identifier: categories
       pageref: /categories/
-    # - name: 外部链接
-    #   weight: 50
-    #   pageref: https://gohugo.io
 
 params:
   since: "2023"
@@ -69,7 +68,7 @@ params:
   customCSS: []
   customJS: []
   social: # 页面底部社交账号的链接，可以换成自己的，不想要也可以删掉
-    a-email: mailto:your@email.com
+    a-email: mailto:123456@qq.com
     q-bilibili: https://bilibili.com
     h-weibo: https://weibo.com
     i-zhihu: https://zhihu.com
@@ -90,3 +89,7 @@ params:
     # s-mastodon: http://localhost:1313
     # t-youtube: http://localhost:1313
     # u-twitch: http://localhost:1313
+
+    # 底下这些一般都没有，可以直接删了
+    # Ctrl+/添加注释，再按一次解除注释
+    # 一般用来提醒自己这个是干嘛的

@@ -6,8 +6,6 @@ draft: false
 tags: ["preview", "shortcodes", "tag-6"]
 categories: ["shortcodes", "index"]
 author: "Chiwu"
-
-weight: 1 # 这个是固定置顶的
 mathjax: true
 ---
 
