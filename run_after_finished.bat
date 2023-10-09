@@ -1,1 +1,1 @@
-hugo -F --cleanDestinationDir
+d:\a-blog\hugo\hugo.exe -F --cleanDestinationDir

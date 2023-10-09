@@ -1,1 +1,1 @@
-hugo server
+d:\a-blog\hugo\hugo.exe server
