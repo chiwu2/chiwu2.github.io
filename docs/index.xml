@@ -31,7 +31,7 @@
       
       <guid>https://chiwu2.github.io/about/</guid>
       
-        <description>&lt;p&gt;这里写关于你自己的介绍。&lt;/p&gt;
+        <description>&lt;p&gt;这里写关于你自己的介绍。我是chiwu，这里是我的个人博客。我会在这里记录一些学习笔记，也会分享一些生活感悟。欢迎大家来访。&lt;/p&gt;
 </description>
       
     </item>
@@ -60,6 +60,7 @@
 &lt;li&gt;&lt;code&gt;layouts/&lt;/code&gt; Stores templates in the form of .html files that specify how views of your content will be rendered into a static website.&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;assets/&lt;/code&gt; stores all the scss &amp;amp; js &lt;strong&gt;source files&lt;/strong&gt;, &lt;code&gt;Hugo Pipes&lt;/code&gt; will bundle them to &lt;code&gt;resources/&lt;/code&gt; folder.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;这里写了如何更改主题但是目前用不到&#34;&gt;这里写了如何更改主题，但是目前用不到&lt;/h2&gt;
 </description>
       
     </item>
