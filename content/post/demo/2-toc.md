@@ -1,6 +1,6 @@
 ---
 author: "湲生"
-title: "【津轻故事】月迷"
+title: "【津轻故事丨辰姬中心】月 迷"
 date: 2022-02-22
 tags: [
     "日本战国",
@@ -90,11 +90,6 @@ menu:
 “无论何时，我想见你，都不会犹豫。”
 信牧拉起她的手，话说得轻，心知自己要付诸何等代价。津轻一脉尽是反骨，父亲执拗地在陆奥修建天守阁，长兄执意亲近落败的西军，现在他执念她。
 辰姬眼里盈满了新月的光辉。她幼时授习汉学，此时只记起来一句：我出我车，于彼牧矣。
-
-
-## Header
-
-This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I'll explain how Hugo uses templates and how you can organize your templates to create a theme. I won't cover using CSS to style your theme.
 
 
 ## Header
