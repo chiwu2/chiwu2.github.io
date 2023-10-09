@@ -57,3 +57,5 @@ hugo server --contentDir='./exampleSite/content' --config='dev-config.toml'
 
 - `layouts/` Stores templates in the form of .html files that specify how views of your content will be rendered into a static website.
 - `assets/` stores all the scss & js **source files**, `Hugo Pipes` will bundle them to `resources/` folder.
+
+## 这里写了如何更改主题，但是目前用不到
