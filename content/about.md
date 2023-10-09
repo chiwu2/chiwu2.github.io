@@ -8,4 +8,4 @@ comment: false
 mathjax: false
 ---
 
-这里可以写自己的情况，底下的那几行不要改哦，title是标题，date是创建日期，lastmod是最后一次修改的时间。
+这是一些流云星散的故事，如果你愿意短暂停留。
