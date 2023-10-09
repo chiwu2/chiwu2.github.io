@@ -8,4 +8,4 @@ comment: false
 mathjax: false
 ---
 
-这里写关于你自己的介绍。
+这里写关于你自己的介绍。我是chiwu，这里是我的个人博客。
