@@ -1,13 +1,9 @@
 ---
 author: "湲生"
 title: "【津轻故事丨辰姬中心】月 迷"
-date: 2022-02-22
+date: 2023-10-09
 tags: [
     "日本战国",
-    "golang",
-    "templates",
-    "themes",
-    "development",
 ]
 categories: [
     "Development",
@@ -21,7 +17,7 @@ menu:
     weight: 2
 ---
 
-## Header
+## 第一章
 
 雨声渺渺，混杂了腥气，鼓乐的节奏似有似无，辰姬在梦中辗转，直至女侍叩窗，她才意识到自己身在人世。
 她意外地贪睡。女侍再次催促她醒来，她支起身体，眼前雾霭未曾散去。自来弘前，她很难适应这样长冬。
@@ -90,44 +86,3 @@ menu:
 “无论何时，我想见你，都不会犹豫。”
 信牧拉起她的手，话说得轻，心知自己要付诸何等代价。津轻一脉尽是反骨，父亲执拗地在陆奥修建天守阁，长兄执意亲近落败的西军，现在他执念她。
 辰姬眼里盈满了新月的光辉。她幼时授习汉学，此时只记起来一句：我出我车，于彼牧矣。
-
-
-## Header
-
-This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I'll explain how Hugo uses templates and how you can organize your templates to create a theme. I won't cover using CSS to style your theme.
-
-### SubHeader
-
-This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I'll explain how Hugo uses templates and how you can organize your templates to create a theme. I won't cover using CSS to style your theme.
-
-### This is very long SubHeader,  This is very long SubHeader,  This is very long SubHeader, This is very long SubHeader,  This is very long SubHeader, This is very long SubHeader
-
-This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I'll explain how Hugo uses templates and how you can organize your templates to create a theme. I won't cover using CSS to style your theme.
-
-### SubHeader
-
-This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I'll explain how Hugo uses templates and how you can organize your templates to create a theme. I won't cover using CSS to style your theme.
-
-
-## Header
-
-This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I'll explain how Hugo uses templates and how you can organize your templates to create a theme. I won't cover using CSS to style your theme.
-
-
-## Header
-
-This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I'll explain how Hugo uses templates and how you can organize your templates to create a theme. I won't cover using CSS to style your theme.
-
-## Header
-
-## Header
-### SubHeader
-### SubHeader
-#### H4
-#### H4
-##### H5
-###### H6
-
-## Header
-
-## Header

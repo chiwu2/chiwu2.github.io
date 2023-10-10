@@ -16,8 +16,43 @@
   </url>
   
   <url>
+    <loc>https://chiwu2.github.io/post/demo/2-toc/</loc>
+    <lastmod>2023-10-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://chiwu2.github.io/categories/</loc>
+    <lastmod>2023-10-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://chiwu2.github.io/</loc>
     <lastmod>2023-10-09T11:15:34+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://chiwu2.github.io/categories/development/</loc>
+    <lastmod>2023-10-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://chiwu2.github.io/categories/golang/</loc>
+    <lastmod>2023-10-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://chiwu2.github.io/categories/index/</loc>
+    <lastmod>2023-10-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -30,6 +65,20 @@
   </url>
   
   <url>
+    <loc>https://chiwu2.github.io/tags/</loc>
+    <lastmod>2023-10-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://chiwu2.github.io/tags/%E6%97%A5%E6%9C%AC%E6%88%98%E5%9B%BD/</loc>
+    <lastmod>2023-10-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://chiwu2.github.io/post/nonetop/</loc>
     <lastmod>2023-10-09T11:15:34+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -37,21 +86,7 @@
   </url>
   
   <url>
-    <loc>https://chiwu2.github.io/categories/</loc>
-    <lastmod>2023-10-08T22:22:14+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://chiwu2.github.io/tags/contribute/</loc>
-    <lastmod>2022-10-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://chiwu2.github.io/categories/development/</loc>
     <lastmod>2022-10-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -93,63 +128,28 @@
   </url>
   
   <url>
-    <loc>https://chiwu2.github.io/categories/index/</loc>
-    <lastmod>2023-10-08T22:22:14+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://chiwu2.github.io/tags/</loc>
-    <lastmod>2023-10-08T22:22:14+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://chiwu2.github.io/post/demo/2-toc/</loc>
-    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+    <loc>https://chiwu2.github.io/post/other/test-toc/global-toc-except-this/</loc>
+    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://chiwu2.github.io/tags/development/</loc>
-    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://chiwu2.github.io/categories/golang/</loc>
-    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://chiwu2.github.io/tags/templates/</loc>
-    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://chiwu2.github.io/tags/themes/</loc>
-    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://chiwu2.github.io/tags/%E6%97%A5%E6%9C%AC%E6%88%98%E5%9B%BD/</loc>
-    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://chiwu2.github.io/post/other/test-toc/global-toc-except-this/</loc>
     <lastmod>2022-02-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
