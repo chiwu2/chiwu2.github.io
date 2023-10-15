@@ -1,2 +1,0 @@
-User-agent: *
-Sitemap: https://chiwu2.github.io/sitemap.xml
