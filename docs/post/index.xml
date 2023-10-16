@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>chiwu</copyright>
-    <lastBuildDate>Sun, 08 Oct 2023 21:38:52 +0800</lastBuildDate><atom:link href="https://chiwu2.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://chiwu2.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>我的第一篇博客</title>
       <link>https://chiwu2.github.io/post/jane-theme-preview/</link>
@@ -15,6 +15,15 @@
       
       <guid>https://chiwu2.github.io/post/jane-theme-preview/</guid>
       <description>主题预览,内容有待填充。</description>
+    </item>
+    
+    <item>
+      <title>【津轻故事丨辰姬中心】月 迷</title>
+      <link>https://chiwu2.github.io/post/demo/2-toc/</link>
+      <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://chiwu2.github.io/post/demo/2-toc/</guid>
+      <description>第一章 雨声渺渺，混杂了腥气，鼓乐的节奏似有似无，辰姬在梦中辗转，直至女侍叩窗，她才意识到自己身在人世。 她意外地贪睡。女侍再次催促她醒来，她支</description>
     </item>
     
     <item>
@@ -36,6 +45,7 @@
     </item>
     
     <item>
+<<<<<<< HEAD
       <title>【津轻故事】月 迷</title>
       <link>https://chiwu2.github.io/post/demo/2-toc/</link>
       <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
@@ -45,6 +55,8 @@
     </item>
     
     <item>
+=======
+>>>>>>> bb5186e6965079d050c18fef8796b61e7eb161e2
       <title>Demo: toc, global toc is true, but this post should not show toc</title>
       <link>https://chiwu2.github.io/post/other/test-toc/global-toc-except-this/</link>
       <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>

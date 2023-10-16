@@ -17,9 +17,7 @@ publishDir: docs
 defaultContentLanguage: "zh-cn"
 languages:
   zh-cn:
-    languageCode: zh-cn
-  en:
-    languageCode: en
+    languageCode: "zh-cn"
 
 author:
   name: chiwu
