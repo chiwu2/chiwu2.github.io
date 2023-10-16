@@ -7,20 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>chiwu</copyright>
-<<<<<<< HEAD
-    <lastBuildDate>Tue, 22 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://chiwu2.github.io/tags/development/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>【津轻故事】月 迷</title>
-      <link>https://chiwu2.github.io/post/demo/2-toc/</link>
-      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://chiwu2.github.io/post/demo/2-toc/</guid>
-      <description>辰姬中心 雨声渺渺，混杂了腥气，鼓乐的节奏似有似无，辰姬在梦中辗转，直至女侍叩窗，她才意识到自己身在人世。 她意外地贪睡。女侍再次催促她醒来，她</description>
-    </item>
-    
-=======
     <lastBuildDate>Mon, 21 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://chiwu2.github.io/tags/development/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> bb5186e6965079d050c18fef8796b61e7eb161e2
     <item>
       <title>Demo: toc, global toc is true, but this post should not show toc</title>
       <link>https://chiwu2.github.io/post/other/test-toc/global-toc-except-this/</link>
